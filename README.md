@@ -25,5 +25,5 @@ In this case, guessing the values of cells that are far away from each other is 
 So in the beginning when the AI has to guess, the first guess could be at random, but the second guess should be a cell close to the first guess, so that the chances that the statements work together is higher. This would allow the AI infer new statements faster, making it a smarter guesser.
 
 ## Installing 
-Run pip3 install -r requirements.txt to install the required Python package (pygame) for the project. Then run Python3 runner.py to start the game
+Run `pip3 install -r requirements.txt` to install the required Python package (pygame) for the project. Then run `Python3 runner.py` to start the game
 
